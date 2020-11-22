@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-mosters-app/static/css/main.57af76da.chunk.css",
+    "main.js": "/react-mosters-app/static/js/main.daed9da7.chunk.js",
+    "main.js.map": "/react-mosters-app/static/js/main.daed9da7.chunk.js.map",
+    "runtime-main.js": "/react-mosters-app/static/js/runtime-main.fb8f6f1b.js",
+    "runtime-main.js.map": "/react-mosters-app/static/js/runtime-main.fb8f6f1b.js.map",
+    "static/js/2.83cee44e.chunk.js": "/react-mosters-app/static/js/2.83cee44e.chunk.js",
+    "static/js/2.83cee44e.chunk.js.map": "/react-mosters-app/static/js/2.83cee44e.chunk.js.map",
+    "static/js/3.ed76ebaa.chunk.js": "/react-mosters-app/static/js/3.ed76ebaa.chunk.js",
+    "static/js/3.ed76ebaa.chunk.js.map": "/react-mosters-app/static/js/3.ed76ebaa.chunk.js.map",
+    "index.html": "/react-mosters-app/index.html",
+    "static/css/main.57af76da.chunk.css.map": "/react-mosters-app/static/css/main.57af76da.chunk.css.map",
+    "static/js/2.83cee44e.chunk.js.LICENSE.txt": "/react-mosters-app/static/js/2.83cee44e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb8f6f1b.js",
+    "static/js/2.83cee44e.chunk.js",
+    "static/css/main.57af76da.chunk.css",
+    "static/js/main.daed9da7.chunk.js"
+  ]
+}
